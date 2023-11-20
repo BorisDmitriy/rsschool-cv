@@ -17,6 +17,8 @@ div {
 }
 
 .code_example {
+  font-family: "Courier New", monospace;
+  white-space: pre;
   background-color: #eeeeee;
   padding: 10px;
 }
