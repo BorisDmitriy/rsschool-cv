@@ -1,0 +1,22 @@
+div {
+  width: 65%;
+  margin: auto;
+}
+
+.context_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eeeeee;
+}
+
+.img_foto {
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+}
+
+.code_example {
+  background-color: #eeeeee;
+  padding: 10px;
+}
